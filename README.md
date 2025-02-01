@@ -27,6 +27,7 @@ To expedite time-to-market, TGE currently utilizes air freight for product shipm
 
 ## Scenario 2: 
 To enhance resilience against supply chain disruptions, management wishes to establish new production facilities (Optional Source), close to demand points in Europe. There are six potential locations (HUDTG, CZMCT, IEILG, FIMPF, PLZCA) for establishing a new production facility. Consequently, the product flow within TGE's supply chain is reconfigured as follows:
+
 <img width="493" alt="image" src="https://github.com/user-attachments/assets/f4c5bfc0-4202-41f9-be0c-d2c06c02edfa" />
 
 However, apart from variable production costs, these locations are associated with significant opening and operating costs, but they are expected to reduce transportation costs. Therefore, by considering location decisions your task is to reformulate the transhipment problem developed in Scenario 1 and to investigate the feasibility of opening a production facility.
