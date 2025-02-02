@@ -15,7 +15,7 @@ Cross docks: ATVIE, PLGDN, FRCDG
 
 Distribution centers: PED, FR6216, RIX, GMZ
 
-Retailers: FLXXC, ALKFM, KSJER, GXEQH, QAHLE, ISNQE, NAAVF, XGUTS, FLDNI, TWKZB, ,VWDRE, FFSVQ
+Retailers: FLXXC, ALKFM, KSJER, GXEQH, QAHLE, ISNQE, NAAVF, XGUTS, FLDNI, TWKZB, VWDRE, FFSVQ
 
 The table below explains the data attributes in the given dataset files.
 <img width="509" alt="image" src="https://github.com/user-attachments/assets/09da36ac-e452-4e5b-8627-f60ad9983c14" />
