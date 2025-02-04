@@ -433,4 +433,4 @@ colmap._template = colmap_template
 legend.add_to(m)
 colmap.add_to(m)
 
-m.save("map.html")
+m.save("index.html")
